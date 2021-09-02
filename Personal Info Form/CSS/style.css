@@ -1,0 +1,103 @@
+
+
+body {
+    background-color: #1a1918;
+}
+
+.heading {
+    color: #fd920e;
+    margin-top: 30px;
+}
+
+.headingpt2{
+    color: #dc6a24;
+  }
+
+  .inputfeild {
+      border-radius: 15px;
+      background-color: transparent;
+      height: 30px;
+      width: 20%;
+      border: 2px solid transparent;
+      box-shadow: #fd920e 0px 0px 5px 0px, #fd920e 0px 0px 1px 0px;
+      color: white;
+      padding-left: 16px;
+      padding-right: 16px;
+      margin-top: 15px;
+  }
+
+ 
+
+  .inputfeild1 {
+    border-radius: 15px;
+    background-color: transparent;
+    height: 30px;
+    width: 25%;
+    border: 2px solid transparent;
+    box-shadow: #fd920e 0px 0px 5px 0px, #fd920e 0px 0px 1px 0px;
+    color: white;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-top: 15px;
+}
+
+.btn {
+    background-color: #fd920e;
+    border: none;
+    color: black;
+    font-weight: bold;
+    border-radius: 15px;
+    font-family: sans-serif;
+    width: 120px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #dc6a24;
+    
+}
+
+.btn1 {
+    display: flex;
+    margin-left: 27%;
+}
+
+.labels {
+    text-align: center;
+  }
+
+  .labels2 {
+    text-align: center;
+    margin-right: 26%;
+  }
+
+  h2 {
+      text-align: center;
+  }
+
+  .procenter {
+      display: flex;
+      justify-content: center;
+  }
+
+  .cameraicon {
+      background-color: #fd920e;
+      border-radius: 50%;
+      height: 35px;
+      display: flex;
+      justify-content: center;
+      width: 35px;
+      margin-left: 130px;
+      margin-top: -34px;
+
+  }
+
+  .profilecircle {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    border: 2px solid #fd920e;
+    box-shadow: #fd920e 0px 0px 5px 0px, #fd920e 0px 0px 1px 0px;
+
+  }
